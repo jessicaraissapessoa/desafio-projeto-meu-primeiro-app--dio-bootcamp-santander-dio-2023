@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="descricao_app">My project for the project challenge Creating an Android App with Support for Multiple Languages, from the Santander 2023 bootcamp, on the Mobile Android with Kotlin track</string>
+</resources>

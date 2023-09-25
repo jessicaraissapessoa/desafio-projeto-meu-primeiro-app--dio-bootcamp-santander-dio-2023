@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="descricao_app">Mi proyecto para el desafío del proyecto Creación de una aplicación Android con soporte para múltiples idiomas, del bootcamp Santander 2023, en el track Móvil Android con Kotlin</string>
+</resources>
