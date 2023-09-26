@@ -43,7 +43,7 @@ Repositório destinado ao meu projeto para o desafio de projeto "Criando um App 
 
 ### Screenshot
 
-![screenshot_meu_primeiro_app](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/b0de18ad-0bc6-4241-b0c8-beb9e14b0a44)
+![screenshot_meu_primeiro_app](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/0c7a6acf-9717-4507-870b-e69b0d102809)
 
 <br>
 
@@ -51,7 +51,7 @@ Repositório destinado ao meu projeto para o desafio de projeto "Criando um App 
 
 <br>
 
-[gravacao_app_internacionalizado.webm](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/91a9845c-936a-4e29-85b6-bc474e2f954d)
+[gravacao_app_internacionalizado.webm](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/75acedee-65e1-46f9-bbb1-70dde209edd9)
 
 <br>
 
