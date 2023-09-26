@@ -70,12 +70,12 @@ Repositório destinado ao meu projeto para o desafio de projeto "Criando um App 
 <br>
 
 * Abra o Android Studio e clique em Get from VCS. Você puxará o repositório remoto para um repositório local:
-![getfromvcs](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/85446d8f-7c28-401d-bedb-a684bd7ec42b)
+![getfromvcs](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/7dbc0d9b-2774-4e4c-b12b-dcffce22624b)
 
 <br>
 
 * Você pode colar o link copiado no espaço URL ou se tiver seu GitHub conectado na IDE, ir na aba GitHub e selecionar o repositório remoto criado anteriormente. Depois disso, clique em Clone:
-![image](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/bc96a5ea-5e0d-48e3-8a85-824730200f02)
+![criando_repositorio_local](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/cd110245-b7e1-4bb7-be4d-bb07e5639947)
 
 <br>
 
