@@ -60,12 +60,12 @@ Repositório destinado ao meu projeto para o desafio de projeto "Criando um App 
 <br>
 
 * Clique no botão Fork. Você criaá uma cópia desse repositório em seus repositórios do GitHub:
-![fork](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/56055a68-9cc8-4956-b51d-ef5d0329a5be)
+![fork](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/55d24bc1-3739-4711-b706-5c84d1d26fa6)
 
 <br>
 
 * No seu repositório remoto resultante do fork, clique em Code e copie o link da aba HTTPS:
-![link_repositorio](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/601ef9f2-63c0-4c7b-9783-5ff19c59066f)
+![link_repositorio](https://github.com/jessicaraissapessoa/desafio-projeto-meu-primeiro-app--dio-bootcamp-santander-dio-2023/assets/103599234/099d753e-bb2f-4d46-b6a2-112255c3a302)
 
 <br>
 
